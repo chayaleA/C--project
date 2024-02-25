@@ -1,0 +1,45 @@
+C:\Users\user1\Desktop\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.AssemblyInfo.cs
+C:\Users\user1\Desktop\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\project_memory_game\project_memory_game\bin\Debug\net6.0\project_memory_game.exe
+C:\Users\user1\Desktop\project_memory_game\project_memory_game\bin\Debug\net6.0\project_memory_game.deps.json
+C:\Users\user1\Desktop\project_memory_game\project_memory_game\bin\Debug\net6.0\project_memory_game.runtimeconfig.json
+C:\Users\user1\Desktop\project_memory_game\project_memory_game\bin\Debug\net6.0\project_memory_game.dll
+C:\Users\user1\Desktop\project_memory_game\project_memory_game\bin\Debug\net6.0\project_memory_game.pdb
+C:\Users\user1\Desktop\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.dll
+C:\Users\user1\Desktop\project_memory_game\project_memory_game\obj\Debug\net6.0\refint\project_memory_game.dll
+C:\Users\user1\Desktop\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.pdb
+C:\Users\user1\Desktop\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.genruntimeconfig.cache
+C:\Users\user1\Desktop\project_memory_game\project_memory_game\obj\Debug\net6.0\ref\project_memory_game.dll
+C:\Users\user1\Desktop\חיהלה\תכנות\פרויקטים\project_memory_game\project_memory_game\bin\Debug\net6.0\project_memory_game.exe
+C:\Users\user1\Desktop\חיהלה\תכנות\פרויקטים\project_memory_game\project_memory_game\bin\Debug\net6.0\project_memory_game.deps.json
+C:\Users\user1\Desktop\חיהלה\תכנות\פרויקטים\project_memory_game\project_memory_game\bin\Debug\net6.0\project_memory_game.runtimeconfig.json
+C:\Users\user1\Desktop\חיהלה\תכנות\פרויקטים\project_memory_game\project_memory_game\bin\Debug\net6.0\project_memory_game.dll
+C:\Users\user1\Desktop\חיהלה\תכנות\פרויקטים\project_memory_game\project_memory_game\bin\Debug\net6.0\project_memory_game.pdb
+C:\Users\user1\Desktop\חיהלה\תכנות\פרויקטים\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\חיהלה\תכנות\פרויקטים\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\חיהלה\תכנות\פרויקטים\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\חיהלה\תכנות\פרויקטים\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.AssemblyInfo.cs
+C:\Users\user1\Desktop\חיהלה\תכנות\פרויקטים\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\חיהלה\תכנות\פרויקטים\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.dll
+C:\Users\user1\Desktop\חיהלה\תכנות\פרויקטים\project_memory_game\project_memory_game\obj\Debug\net6.0\refint\project_memory_game.dll
+C:\Users\user1\Desktop\חיהלה\תכנות\פרויקטים\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.pdb
+C:\Users\user1\Desktop\חיהלה\תכנות\פרויקטים\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.genruntimeconfig.cache
+C:\Users\user1\Desktop\חיהלה\תכנות\פרויקטים\project_memory_game\project_memory_game\obj\Debug\net6.0\ref\project_memory_game.dll
+C:\Users\user1\Desktop\חיהלה\משחק זיכרון למשפחה\project_memory_game\project_memory_game\bin\Debug\net6.0\project_memory_game.exe
+C:\Users\user1\Desktop\חיהלה\משחק זיכרון למשפחה\project_memory_game\project_memory_game\bin\Debug\net6.0\project_memory_game.deps.json
+C:\Users\user1\Desktop\חיהלה\משחק זיכרון למשפחה\project_memory_game\project_memory_game\bin\Debug\net6.0\project_memory_game.runtimeconfig.json
+C:\Users\user1\Desktop\חיהלה\משחק זיכרון למשפחה\project_memory_game\project_memory_game\bin\Debug\net6.0\project_memory_game.dll
+C:\Users\user1\Desktop\חיהלה\משחק זיכרון למשפחה\project_memory_game\project_memory_game\bin\Debug\net6.0\project_memory_game.pdb
+C:\Users\user1\Desktop\חיהלה\משחק זיכרון למשפחה\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\חיהלה\משחק זיכרון למשפחה\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\חיהלה\משחק זיכרון למשפחה\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\חיהלה\משחק זיכרון למשפחה\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.AssemblyInfo.cs
+C:\Users\user1\Desktop\חיהלה\משחק זיכרון למשפחה\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\חיהלה\משחק זיכרון למשפחה\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.dll
+C:\Users\user1\Desktop\חיהלה\משחק זיכרון למשפחה\project_memory_game\project_memory_game\obj\Debug\net6.0\refint\project_memory_game.dll
+C:\Users\user1\Desktop\חיהלה\משחק זיכרון למשפחה\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.pdb
+C:\Users\user1\Desktop\חיהלה\משחק זיכרון למשפחה\project_memory_game\project_memory_game\obj\Debug\net6.0\project_memory_game.genruntimeconfig.cache
+C:\Users\user1\Desktop\חיהלה\משחק זיכרון למשפחה\project_memory_game\project_memory_game\obj\Debug\net6.0\ref\project_memory_game.dll
